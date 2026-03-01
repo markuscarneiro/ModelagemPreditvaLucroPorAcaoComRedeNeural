@@ -10,6 +10,8 @@
 
 Projeto de modelagem de séries temporais para previsão de **EPS (Earnings Per Share)** com rede neural **LSTM (Long Short-Term Memory)** em Python.
 
+https://www.deeplearningbook.com.br/arquitetura-de-redes-neurais-long-short-term-memory/
+
 ## Objetivo
 
 Treinar um modelo recorrente para aprender o comportamento histórico do EPS e gerar:
